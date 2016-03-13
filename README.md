@@ -1,2 +1,1 @@
-# QRCode_Android_2
-PARTE 2. 
+# Android
